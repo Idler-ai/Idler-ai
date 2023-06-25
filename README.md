@@ -1,4 +1,7 @@
-### Hi there 👋
+### Idler Aurelus 
+**` NTHU Economics | Class of 2024`**
+
+Welcome to Idler Aurelus's portfolio, an aspiring data analyst whose drive is to transform businesses with data-driven solutions. I use this portfolio to higlight my personal projects and the courses that I have taken.  Join me on this exciting journey and let's unlock the potential of data together!
 
 <!--
 **Idler-ai/Idler-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
