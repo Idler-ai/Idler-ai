@@ -5,6 +5,8 @@ Welcome to Idler Aurelus's portfolio, an aspiring data analyst whose drive is to
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:20px;" src="![image](https://github.com/Idler-ai/Idler-ai/assets/124128852/64cfd91e-6a8d-46c2-be53-349632fa2835)
+" />
           
 
           
