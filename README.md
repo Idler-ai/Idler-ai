@@ -10,6 +10,7 @@ Welcome to Idler Aurelus's portfolio, an aspiring data analyst whose drive is to
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://www.r-project.org/logo/Rlogo.svg" />
 <img align="left" alt="Java" width="100px" style="padding-right:20px;" src= "https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" />
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" / >
+<img align="left" alt="Java" width="100px" style="padding-right:20px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" / >
 
                     
 
