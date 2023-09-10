@@ -24,16 +24,16 @@ Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Datab
 
 ---
 
-### ⚡Currently
+### ⚡ Currently
 * Working on my next SQL and POWER BI projects.
 * Taking the PYTHON course LEARNING PYTHON FOR DATA ANALYSIS AND VISUALIZATION on Udemy.
 * Enrolling in a 5 course series specialization in DATA ANALYSIS AND INTERPRETATION offered by Wesleyan University on Coursera.
 * Taking the MACHINE LEARNING FOR DATA ANALYSIS course from the 5 course series.
 
-### 📫
+### 📫 Connect
 <img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/idler-aur%C3%A9lus-014435138/)
 
-<img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />[Gmail](aurelusidler17@gmail.com) 
+
                     
 
           
