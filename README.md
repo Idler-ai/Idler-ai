@@ -1,7 +1,7 @@
 ### Idler Aurelus 
 **` UVic MA in Economics| NTHU Economics | Data Analyst Enthusiast | Class of 2024`**
 
-Welcome to Idler Aurelus's portfolio, an MA student in Economics at the University of Victoria, BC, Canada. Currently holding a bachelor's degree in Economics from National Tsing Hua University, Hsinchu, Taiwan. I like to learn and code on my free time. Got several certifications from the platform Udemy. I know a bit of Python, I am better at SQL but have been using R and Excel more often as my academic work would require me to do so.  I use this portfolio to showcase my personal projects and the courses that I have taken.  
+Welcome to Idler Aurelus's portfolio, an MA student in Economics at the University of Victoria, BC, Canada. Currently holding a bachelor's degree in Economics from National Tsing Hua University, Hsinchu, Taiwan. My research focus is environmental and resource economics. I love working with and give meaning to complex data. I learn and code on my free time. Got several certifications from the platform Udemy. I know a bit of Python, I am better at SQL and I have been using R and Excel more often as my academic work would require me to do so.  I use this portfolio to showcase my personal projects and the courses that I have taken.  
 ### 📂 Projects
 Click [here](https://github.com/Idler-ai?tab=repositories) to see all my interesting projects in my repositories so far.
 
